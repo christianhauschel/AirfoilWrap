@@ -1,0 +1,7 @@
+name = "AirfoilWrap"
+uuid = "4e7d86d3-1f10-47fa-9863-ace3b2d3d27a"
+authors = ["Christian <hacs@zhaw.ch>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
